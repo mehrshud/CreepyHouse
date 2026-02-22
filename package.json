@@ -1,1 +1,8 @@
-{"name": "CreepyHouse", "version": "1.0.0", "scripts": {"audit": "npm audit"}, "dependencies": {"npm-audit-resolve": "^3.2.0"}, "devDependencies": {"eslint": "^8.23.0", "eslint-config-security": "^2.0.0"}}
+{
+  "name": "CreepyHouse",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node cameraController.js"
+  },
+  "dependencies": {}
+}
